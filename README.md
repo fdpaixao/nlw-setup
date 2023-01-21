@@ -16,3 +16,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits e um app para ajudar a rastrear os habitos.
+
+- [Visite o projeto online](https://https://fdpaixao.github.io/nlw-setup/)
